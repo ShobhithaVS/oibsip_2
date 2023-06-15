@@ -1,0 +1,56 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: gray;
+    }
+    .self{
+        font-size: xx-large;
+    }
+    #main{
+    border-radius: 9px;
+    padding: 1px;
+    }
+    #desc{
+        text-align: center;
+        font-size:larger;
+        font-style: italic;
+    }
+    #image{
+    margin: 4px auto;
+    max-width: 100%;
+    display: block;
+    padding-left: 380px;
+        
+    }
+    #image-caption{
+    text-align: center;
+    }
+.about{
+    text-align: center;
+    font-weight: bold;
+    font-size: xx-large;
+    
+}
+.last{
+    text-align: center;
+    font-size: medium;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    font-weight: 200;
+}
+#story{
+    padding: 18px 0;
+    color: rgb(68, 10, 68);
+}
+.p1{
+    background-color: rgb(75, 74, 74);
+    border: 2px solid rgb(243, 234, 234) !important;
+    margin: 5px auto !important;
+    padding: 5px 10px !important;
+    border-radius: 7px;
+    width: 1200px;
+    color: white;
+    font-size: large;
+    font-family:'Times New Roman', Times, serif;
+}
